@@ -1,6 +1,6 @@
 ### Olá! Eu sou Cláudio Santos 👋
 
-- 🔭 Hoje estou em busca de novos desafios como Dev. Junior ou Estágio.
+- 🔭 Hoje estou em busca de novos desafios como Dev. Cobol.
 - 🌱 Sou formado em Engenharia de Software e atualmente cursando Pós Graduação em desenvolvimento Orientado a Objeto Java.
 
 
